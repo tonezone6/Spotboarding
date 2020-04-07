@@ -14,6 +14,8 @@
 		FA7C1121243B8772002A7062 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA7C1120243B8772002A7062 /* Assets.xcassets */; };
 		FA7C1124243B8772002A7062 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA7C1122243B8772002A7062 /* LaunchScreen.storyboard */; };
 		FA7C112C243B8C4D002A7062 /* Spotboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7C112B243B8C4D002A7062 /* Spotboarding.swift */; };
+		FA7C112F243CCA2E002A7062 /* spotboarding.gif in Resources */ = {isa = PBXBuildFile; fileRef = FA7C112E243CCA2E002A7062 /* spotboarding.gif */; };
+		FA7C1131243CCA82002A7062 /* README.MD in Resources */ = {isa = PBXBuildFile; fileRef = FA7C1130243CCA82002A7062 /* README.MD */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		FA7C1123243B8772002A7062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA7C1125243B8772002A7062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA7C112B243B8C4D002A7062 /* Spotboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spotboarding.swift; sourceTree = "<group>"; };
+		FA7C112E243CCA2E002A7062 /* spotboarding.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = spotboarding.gif; sourceTree = "<group>"; };
+		FA7C1130243CCA82002A7062 /* README.MD */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.MD; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,8 @@
 		FA7C110B243B8771002A7062 = {
 			isa = PBXGroup;
 			children = (
+				FA7C112E243CCA2E002A7062 /* spotboarding.gif */,
+				FA7C1130243CCA82002A7062 /* README.MD */,
 				FA7C1116243B8771002A7062 /* Spotboarding */,
 				FA7C1115243B8771002A7062 /* Products */,
 			);
@@ -128,9 +134,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA7C112F243CCA2E002A7062 /* spotboarding.gif in Resources */,
 				FA7C1124243B8772002A7062 /* LaunchScreen.storyboard in Resources */,
 				FA7C1121243B8772002A7062 /* Assets.xcassets in Resources */,
 				FA7C111F243B8771002A7062 /* Main.storyboard in Resources */,
+				FA7C1131243CCA82002A7062 /* README.MD in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
