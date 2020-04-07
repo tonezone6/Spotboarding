@@ -46,8 +46,8 @@
 		FA7C110B243B8771002A7062 = {
 			isa = PBXGroup;
 			children = (
-				FA7C112E243CCA2E002A7062 /* spotboarding.gif */,
 				FA7C1130243CCA82002A7062 /* README.MD */,
+				FA7C112E243CCA2E002A7062 /* spotboarding.gif */,
 				FA7C1116243B8771002A7062 /* Spotboarding */,
 				FA7C1115243B8771002A7062 /* Products */,
 			);
